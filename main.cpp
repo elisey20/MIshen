@@ -3,13 +3,6 @@
 
 using namespace std;
 
-float getRandomNumber(int min, int max)
-{
-	
-	
-	return 0;
-}
-
 int main()
 {
 	
